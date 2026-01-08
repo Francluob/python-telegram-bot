@@ -1,0 +1,7 @@
+# Python Lock File (PEP 735)
+# This file follows the Python Lock File Standard (PEP 735)
+# For detailed dependency information, see uv.lock
+
+[lock]
+version = "1"
+requires-python = ">=3.10"
